@@ -1,0 +1,12 @@
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\bin\Debug\Farbmischung.exe.config
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\bin\Debug\Farbmischung.exe
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\bin\Debug\Farbmischung.pdb
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\bin\Debug\Farbmischung.xml
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.vbprojAssemblyReference.cache
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.Form1.resources
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.Resources.resources
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.vbproj.GenerateResource.cache
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.vbproj.CoreCompileInputs.cache
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.exe
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.xml
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbmischung\obj\Debug\Farbmischung.pdb

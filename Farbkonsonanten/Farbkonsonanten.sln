@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Farbkonsonanten", "Farbkonsonanten.vbproj", "{042DC2BC-FC9A-40A4-B365-02DB85BAA3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{042DC2BC-FC9A-40A4-B365-02DB85BAA3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042DC2BC-FC9A-40A4-B365-02DB85BAA3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042DC2BC-FC9A-40A4-B365-02DB85BAA3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042DC2BC-FC9A-40A4-B365-02DB85BAA3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E875D82-7FA7-4604-B50E-C7B89070CFA9}
+	EndGlobalSection
+EndGlobal

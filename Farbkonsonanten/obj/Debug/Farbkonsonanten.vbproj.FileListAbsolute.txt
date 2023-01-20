@@ -1,0 +1,12 @@
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\bin\Debug\Farbkonsonanten.exe.config
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\bin\Debug\Farbkonsonanten.exe
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\bin\Debug\Farbkonsonanten.pdb
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\bin\Debug\Farbkonsonanten.xml
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.vbprojAssemblyReference.cache
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.Form1.resources
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.Resources.resources
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.vbproj.GenerateResource.cache
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.vbproj.CoreCompileInputs.cache
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.exe
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.xml
+\\RSGS01\StudentsHome$\NicklasNoah.Kubiak\Data\Visual Studio\Farbkonsonanten\obj\Debug\Farbkonsonanten.pdb
